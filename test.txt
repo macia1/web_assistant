@@ -1,0 +1,3 @@
+input|//input[@id='kw']|python selenium
+click|//input[@id='su']|a
+time_sleep||10
